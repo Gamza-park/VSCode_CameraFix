@@ -11,7 +11,7 @@ This repository need Xcode.
 
 ### 1.Please clone this repository
 
-### 2.Please enter this command
+### 2.command in Terminal
 ``` 
 $ osascript -e 'id of app "Visual Studio Code"' 
 com.microsoft.VSCode
